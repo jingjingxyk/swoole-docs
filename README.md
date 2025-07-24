@@ -1,6 +1,6 @@
 # swoole docs
 
-## development
+## development  live preview doc
 
 ```shell
 
@@ -15,6 +15,9 @@ npm run dev
 ```
 
 ## generate doc
+
+默认 web 工作目录位于 public
+The default public web directory is public
 
 ```shell
 
